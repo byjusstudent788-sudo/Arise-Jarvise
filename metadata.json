@@ -1,0 +1,6 @@
+{
+  "name": "Nova Arise",
+  "description": "JARVIS and NOVA inspired futuristic AI voice assistant HUD with real-time device diagnostics, protocol activation, and conversational Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

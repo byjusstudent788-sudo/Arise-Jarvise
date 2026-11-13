@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nova Arise</string>
+    <string name="nav_core">Core</string>
+    <string name="nav_systems">Systems</string>
+    <string name="nav_protocols">Protocols</string>
+    <string name="status_online">ALL SYSTEMS ONLINE</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_thinking">NEURAL SYNC</string>
+    <string name="status_speaking">TRANSMITTING</string>
+    <string name="status_arise">ARISE OVERDRIVE</string>
+    <string name="initial_greeting">All systems online. Sab theek hai. Ready when you are—what are we activating?</string>
+    <string name="hint_command_input">Ask Nova or enter protocol…</string>
+    <string name="cd_mic_button">Activate voice command</string>
+    <string name="cd_send_button">Send command</string>
+    <string name="cd_core_orb">Nova neural core visualizer, tap to speak</string>
+    <string name="cd_toggle_voice">Toggle voice output</string>
+    <string name="cd_clear_session">Reset session</string>
+    <string name="cd_replay_speech">Speak last response</string>
+    <string name="cd_stop_speech">Stop speaking</string>
+    <string name="mic_permission_needed">Microphone permission is needed for live voice commands. You can still type commands anytime.</string>
+    <string name="grant_mic_permission">Enable Mic</string>
+    <string name="retry_action">Retry</string>
+</resources>
